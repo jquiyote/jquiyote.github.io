@@ -686,6 +686,32 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "3-D Donut - Blender",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/kubo-poster-2-1400x2100.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kubo-poster-2-1400x2100-800x1200.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Kubo Poster - Photoshop &amp; Illustrator",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/crazy-horse-records-1643x1991.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/crazy-horse-records-1643x1991-800x969.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Retro Screenprint - Illustrator",
                 "active": true
               }
             ]
