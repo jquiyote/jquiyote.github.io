@@ -2861,14 +2861,76 @@ body {
   padding-bottom: 0px;
   background-image: url("../../../assets/images/jude-beck-nrt1z3kupru-unsplash-2000x1333.jpg");
 }
-.cid-rXoIFAXic4 {
+.cid-rXp4n7lkj8 {
+  background: #ffffff;
   padding-top: 60px;
   padding-bottom: 60px;
+}
+.cid-rXp4n7lkj8 .image-block {
+  margin: auto;
+}
+.cid-rXp4n7lkj8 figcaption {
+  position: relative;
+}
+.cid-rXp4n7lkj8 figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rXp4n7lkj8 .image-block {
+    width: 100% !important;
+  }
+}
+.cid-rXoVspcaWb {
+  padding-top: 60px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rXoVspcaWb .mbr-text,
+.cid-rXoVspcaWb blockquote {
+  color: #767676;
+}
+.cid-rXoIFAXic4 {
+  padding-top: 0px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-rXoIFAXic4 .mbr-text,
 .cid-rXoIFAXic4 blockquote {
   color: #767676;
+}
+.cid-rXoVqDPI1k {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rXoVqDPI1k .mbr-text,
+.cid-rXoVqDPI1k blockquote {
+  color: #767676;
+}
+.cid-rXoSUVEaFG {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
+}
+.cid-rXoSUVEaFG .line {
+  background-color: #0f7699;
+  color: #0f7699;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rXoSUVEaFG .section-text {
+  padding: 2rem 0;
+}
+.cid-rXoSUVEaFG .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rXoSUVEaFG .inner-container {
+    width: 100% !important;
+  }
 }
 .cid-rXoIsioSvc {
   padding-top: 60px;
