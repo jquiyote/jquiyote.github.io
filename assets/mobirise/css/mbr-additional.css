@@ -2938,6 +2938,9 @@ body {
     justify-content: center;
   }
 }
+.cid-rXoIsioSvc P {
+  text-align: left;
+}
 .cid-rVI3v6Us6a .navbar {
   padding: .5rem 0;
   background: #333333;
@@ -3343,68 +3346,6 @@ body {
   padding-bottom: 0px;
   background-image: url("../../../assets/images/jude-beck-nrt1z3kupru-unsplash-2000x1333.jpg");
 }
-.cid-rXoJINOxQY {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-rXoJINOxQY .mbr-slider .carousel-control {
-  background: #1b1b1b;
-}
-.cid-rXoJINOxQY .mbr-slider .carousel-control-prev {
-  left: 0;
-  margin-left: 2.5rem;
-}
-.cid-rXoJINOxQY .mbr-slider .carousel-control-next {
-  right: 0;
-  margin-right: 2.5rem;
-}
-.cid-rXoJINOxQY .mbr-slider .modal-body .close {
-  background: #1b1b1b;
-}
-.cid-rXoJINOxQY .mbr-gallery-item > div::before {
-  content: '';
-  position: absolute;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  background: #554346;
-  opacity: 0;
-  -webkit-transition: 0.2s opacity ease-in-out;
-  transition: 0.2s opacity ease-in-out;
-  background: linear-gradient(to left, #554346, #45505b) !important;
-}
-.cid-rXoJINOxQY .mbr-gallery-item > div:hover .mbr-gallery-title::before {
-  background: transparent !important;
-}
-.cid-rXoJINOxQY .mbr-gallery-item > div:hover:before {
-  opacity: 0.7 !important;
-}
-.cid-rXoJINOxQY .mbr-gallery-title {
-  font-size: .9em;
-  position: absolute;
-  display: block;
-  width: 100%;
-  bottom: 0;
-  padding: 1rem;
-  color: #fff;
-  z-index: 2;
-}
-.cid-rXoJINOxQY .mbr-gallery-title:before {
-  content: " ";
-  width: 100%;
-  height: 100%;
-  top: 0;
-  left: 0;
-  z-index: -1;
-  position: absolute;
-  background: #554346 !important;
-  opacity: 0.7;
-  -webkit-transition: 0.2s background ease-in-out;
-  transition: 0.2s background ease-in-out;
-  background: linear-gradient(to left, #554346, #45505b) !important;
-}
 .cid-rXoJ4pkg9v {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -3471,6 +3412,59 @@ body {
   .cid-rXoJ4pkg9v .footer-lower .social-list {
     -webkit-justify-content: center;
     justify-content: center;
+  }
+}
+.cid-rXoJ4pkg9v P {
+  text-align: left;
+}
+.cid-rXoPdRzVOK {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background: #ffffff;
+}
+.cid-rXoPdRzVOK .images-container.container-fluid {
+  padding: 0;
+}
+.cid-rXoPdRzVOK .media-container-row {
+  margin: 0 auto;
+  align-items: stretch;
+  -webkit-align-items: stretch;
+}
+.cid-rXoPdRzVOK .media-container-row .img-item {
+  display: -webkit-flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+  z-index: 1;
+  -webkit-flex-direction: column;
+  -webkit-justify-content: center;
+}
+.cid-rXoPdRzVOK .media-container-row .img-item img {
+  width: 100%;
+  min-height: 1px;
+}
+.cid-rXoPdRzVOK .media-container-row .img-item .img-caption {
+  background: #ffffff;
+  z-index: 2;
+  padding: 1rem 1rem;
+  word-break: break-word;
+}
+.cid-rXoPdRzVOK .media-container-row .img-item .img-caption p {
+  margin-bottom: 0;
+}
+.cid-rXoPdRzVOK .media-container-row .img-item.item1 {
+  padding: 0 2rem 0 0;
+}
+@media (max-width: 992px) {
+  .cid-rXoPdRzVOK .img-item {
+    width: 100% !important;
+  }
+  .cid-rXoPdRzVOK .img-item.item1 {
+    width: 100%;
+    flex-basis: initial !important;
+    padding: 0 0 2rem 0 !important;
+    -webkit-flex-basis: initial !important;
   }
 }
 .cid-rVI3v6Us6a .navbar {
@@ -4007,4 +4001,7 @@ body {
     -webkit-justify-content: center;
     justify-content: center;
   }
+}
+.cid-rXoJzDyo7a P {
+  text-align: left;
 }
